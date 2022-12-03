@@ -1,7 +1,7 @@
 ## AI Course Projects
 
-Hello these are the projects that we created with my teammate in our AI course.
+<b>Hello, these are the codes that we created with my teammate in our AI course.
 
-You can check both reports and questions.
+All projets completed according to given problems, because of the university policy I can not share them.
 
-All codes created by me and my teammate.
+<b>All codes created by me and my teammate.
